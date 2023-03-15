@@ -2,7 +2,7 @@
   "expo": {
     "name": "Fitness App",
     "slug": "fitness-app",
-    "description": "This is a app to help you with workouts",
+    "description": "This is an app to help you with workouts",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
