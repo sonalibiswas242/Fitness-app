@@ -1,5 +1,5 @@
 # Fitness-app
-This is an app to help with you workouts.
+This is an app to help you with workouts.
 
 <p>
 <table>
