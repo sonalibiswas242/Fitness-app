@@ -1,5 +1,5 @@
 # Fitness-app
-This is an app to help you with workouts.
+This is a React native application to help you with workouts.
 
 <p>
 <table>
