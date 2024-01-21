@@ -1,13 +1,13 @@
 # Fitness-app
-This is an app to help you with workouts.
+This is a React native application to help you with workouts.
 
 <p>
 <table>
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/91608355/225247459-8f0b9bdc-4fd1-44e9-8c08-37e6ecafc48a.jpg" widhth="330" height="330">
-    <td> <img src="https://user-images.githubusercontent.com/91608355/225247556-d36689b0-0b9c-490e-a747-1a6c89881c71.jpg" widhth="330" height="330">
-    <td><img src="https://user-images.githubusercontent.com/91608355/225247671-e9835442-f144-4369-9d04-fea1dbc68b28.jpg" widhth="330" height="330">
-    <td> <img src="https://user-images.githubusercontent.com/91608355/225247752-a059cb81-8d0e-4bc4-a87d-c7705f2d827e.jpg" widhth="330" height="330">
+    <td> <img src="https://user-images.githubusercontent.com/91608355/228494508-f04bbfed-c490-4af6-82a3-579e7b483c7e.jpg" widhth="330" height="330">
+    <td> <img src="https://user-images.githubusercontent.com/91608355/228494526-3dee6277-a86b-44e9-a26f-44032de3048a.jpg" widhth="330" height="330">
+    <td> <img src="https://user-images.githubusercontent.com/91608355/228494535-764d7200-e490-4be9-a67b-11c02e42b800.jpg" widhth="330" height="330">
+    <td> <img src="https://user-images.githubusercontent.com/91608355/228494541-3cdcbe3c-ab4f-4624-9321-282591468b81.jpg" widhth="330" height="330">
   </tr>
  </table>
 
